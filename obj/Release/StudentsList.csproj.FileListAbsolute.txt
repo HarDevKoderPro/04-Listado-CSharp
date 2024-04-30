@@ -1,0 +1,22 @@
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\bin\Release\StudentsList.exe.config
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\bin\Release\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\bin\Release\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.csproj.AssemblyReference.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.Principal.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.Properties.Resources.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.csproj.GenerateResource.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Release\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\bin\Release\StudentsList.exe.config
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\bin\Release\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\bin\Release\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.csproj.AssemblyReference.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.Principal.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.Properties.Resources.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.csproj.GenerateResource.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Release\StudentsList.pdb

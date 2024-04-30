@@ -1,0 +1,44 @@
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\bin\Debug\StudentsList.exe.config
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\bin\Debug\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\bin\Debug\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.csproj.AssemblyReference.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.Form1.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.Properties.Resources.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.csproj.GenerateResource.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\StudentsList\obj\Debug\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\bin\Debug\StudentsList.exe.config
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\bin\Debug\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\bin\Debug\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.csproj.AssemblyReference.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.Principal.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.Properties.Resources.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.csproj.GenerateResource.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList\obj\Debug\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\bin\Debug\StudentsList.exe.config
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\bin\Debug\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\bin\Debug\StudentsList.pdb
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.csproj.AssemblyReference.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.Principal.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.Properties.Resources.resources
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.csproj.GenerateResource.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.exe
+D:\PROGRAMACION\PRACTICAS\PRACTICAS - C#\07- StudentsList - copia\obj\Debug\StudentsList.pdb
+D:\Desktop\Students-Tests\bin\Debug\StudentsList.exe.config
+D:\Desktop\Students-Tests\bin\Debug\StudentsList.exe
+D:\Desktop\Students-Tests\bin\Debug\StudentsList.pdb
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.csproj.AssemblyReference.cache
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.Principal.resources
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.Properties.Resources.resources
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.csproj.GenerateResource.cache
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.csproj.CoreCompileInputs.cache
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.exe
+D:\Desktop\Students-Tests\obj\Debug\StudentsList.pdb
